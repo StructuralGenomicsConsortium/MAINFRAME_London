@@ -16,8 +16,8 @@ Please look at the [Issues](https://github.com/StructuralGenomicsConsortium/MAIN
 
 ### The Other initiatives are lead by:  
 
-* AIRCHECK: [**Dr Benjamin Haibe Kains**](https://www.thesgc.org/profile/toronto/haibe-kains)  
-* Challenges: [**Prof Matthieu Shapira**](https://www.thesgc.org/profile/toronto/schapira) 
-* MAINFRAME: [**Dr Albert A. Antolin**](http://albertaantolin.com/index.php)
+* Challenges: [**Prof Matthieu Shapira**](https://www.thesgc.org/profile/toronto/schapira)  
+* AIRCHECK: [**Dr Benjamin Haibe Kains**](https://www.thesgc.org/profile/toronto/haibe-kains)   
+* MAINFRAME: [**Dr Albert A. Antolin**](http://albertaantolin.com/index.php)  
 
 ![image](https://github.com/user-attachments/assets/6e693ed8-05f2-44a1-9d9b-171ba0c4d0c4) ![image](https://github.com/user-attachments/assets/d267a585-b93f-4b25-afce-b2c5f7b6be2d)
