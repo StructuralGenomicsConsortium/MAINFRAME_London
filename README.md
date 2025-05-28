@@ -3,7 +3,7 @@ Welcome to **MAINFRAME London**! We strive to gather the local AI community to h
 
 In the [Wiki](https://github.com/StructuralGenomicsConsortium/MAINFRAME_London/wiki) we have summarize what these initatives strive for and elaborated on our role in this framework.   
 
-Please look at the [Issues](https://github.com/StructuralGenomicsConsortium/MAINFRAME_London/issues) section for the latest updates. If you want to join the conversation, **please follow this repository** and use [Discussions](https://github.com/StructuralGenomicsConsortium/MAINFRAME_London/discussions) for questions.    
+Please look at the [Issues](https://github.com/StructuralGenomicsConsortium/MAINFRAME_London/issues) section for the latest updates. If you want to join the conversation, please follow this repository by selecting **Watch** and use [Discussions](https://github.com/StructuralGenomicsConsortium/MAINFRAME_London/discussions) for questions.    
 
 ***
 ### The MAINFRAME London community is lead by:  
